@@ -1,3 +1,3 @@
 # Foton
 
-Photographer portfolio template by Jakub Wrobel.
+Photographer portfolio template by <b>Jakub Wrobel</b>.
